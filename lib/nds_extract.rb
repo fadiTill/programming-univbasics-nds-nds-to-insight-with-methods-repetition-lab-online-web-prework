@@ -6,7 +6,7 @@ pp directors_database
 def directors_totals(source)
   result = {}
   def director source 
-    director source = {
+    director_source = {
    :lineone =>   ['infoone','infotwo','infortree'],
    :linetwo => ['infoa','infob','infoc'],
    :linetree => ['infox ,'infoy',infoz]
